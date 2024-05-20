@@ -2,7 +2,8 @@
 #SBATCH --job-name=Demux_TCG##
 #SBATCH --partition=highmem_p
 #SBATCH --ntasks=1
-#SBATCH --mem=150gb
+#SBATCH --cpus-per-task=12
+#SBATCH --mem-per-cpu=15gb
 #SBATCH --time=72:00:00
 #SBATCH --output=%x_%j.out
 #SBATCH --error=%x_%j.err
@@ -17,6 +18,7 @@ module load Stacks/2.62-foss-2022a
 
 cd /file/path/to/working/directory
 
+#This is the folder the fastq files will write to
 mkdir /file/path/to/working/directory/demultiplex_dual
 
 ## In the script below the undemultiplexed R1 and R2 fastqs and the barcodes text file need to be in the working directory 
