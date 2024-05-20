@@ -1,0 +1,128 @@
+GACTTAGG	TTACCGAG	LR1
+ACACCAGT	CCTTGATC	LR2
+CCTGATTG	CTCATCAG	LR3
+TTGTGTGC	TCGTAGTC	LR4
+TACCACAG	TATGGCAG	LR5
+ATTCGAGG	AGCACTTC	LR6
+GCACGTAA	TGGTACAG	LP1
+GTGTGACA	AACCGTTC	LP2
+CTGGTTCT	TACCACAG	LP3
+ACTGTGTC	ATGGTTGC	LP4
+CCATACGT	GAAGGAAG	LP5
+GGTACTAC	ATGACGTC	LP6
+CAGTCCAA	CTAGCAAG	SR1
+TCGTAGTC	TCGAGTGA	SR2
+TCGAGTGA	GTTGTAGC	SR3
+TGTAGCCA	GACAAGAG	SR4
+TGCAGGTA	GATCGTAC	SR5
+CTAGGTGA	GTCTCCTT	SR6
+CTCCATGT	GATGAGAC	SP1
+CTTACAGC	TGCCTCTT	SP2
+CGTATTCG	TTGCAGAC	SP3
+ATTCTGGC	TACTGCGT	SP4
+TACCAGGA	CGAAGAAC	SP5
+TACATCGG	AAGGCGTT	SP6
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
