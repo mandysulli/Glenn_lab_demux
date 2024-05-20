@@ -1,6 +1,9 @@
 # Glenn_lab_demux
 Protocol for demultiplexing in the Glenn Lab
 
+STACKS is used to demultiplex our data more information can be found on the STACKS website:
+https://catchenlab.life.illinois.edu/stacks/comp/process_radtags.php
+
 Two ways to demultiplex:
 1. Dual barcodes - with i7 and i5 barcodes
 2. Single barcodes - with just i7 barcodes
